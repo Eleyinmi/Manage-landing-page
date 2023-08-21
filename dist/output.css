@@ -637,14 +637,6 @@ video {
   width: 4rem;
 }
 
-.w-7 {
-  width: 1.75rem;
-}
-
-.w-full {
-  width: 100%;
-}
-
 .max-w-6xl {
   max-width: 72rem;
 }
@@ -1037,10 +1029,6 @@ body{
 
   .md\:flex-row {
     flex-direction: row;
-  }
-
-  .md\:flex-row-reverse {
-    flex-direction: row-reverse;
   }
 
   .md\:flex-col {
